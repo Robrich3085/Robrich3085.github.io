@@ -2,14 +2,12 @@
 var discnt = 0; // no default percent discount
 
 var coupons = new Array ( // place to put coupon codes
-"coup1", // 1st coupon value - comma seperated
-"coup2", // 2nd coupon value - add all you want
-"coup3" // 3rd coupon value
+"paradise10", // 1st coupon value - comma seperated
+"Paradise10", // 2nd coupon value - add all you want
 );
 var coupdc = new Array ( // place to put discounts for coupon vals
-5,
 10,
-15
+10
 );
 var coupval = "(paradise10)"; // what user entered as coupon code
 
