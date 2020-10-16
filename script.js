@@ -11,7 +11,7 @@ var coupdc = new Array ( // place to put discounts for coupon vals
 10,
 15
 );
-var coupval = "Paradise10"; // what user entered as coupon code
+var coupval = "paradise10"; // what user entered as coupon code
 
 function ChkCoup () { // check user coupon entry
 var i;
